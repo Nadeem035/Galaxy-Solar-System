@@ -5,6 +5,7 @@ body{
   height: 100%;
   top: 0;
   bottom: 0;
+  overflow: hidden;
 }
 .wrapper{
   position: relative;
